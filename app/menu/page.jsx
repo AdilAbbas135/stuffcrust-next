@@ -59,7 +59,7 @@ const Menu = () => {
                 >
                   <div className="flex-1 min-h-[250px]">
                     <img
-                      src={deal.image}
+                      src={deal.image.src}
                       alt=""
                       height={300}
                       width={300}
